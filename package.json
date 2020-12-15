@@ -1,0 +1,25 @@
+{
+  "name": "tutorial1",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "dependencies": {
+    "nuxt": "^2.13.0",
+    "@nuxtjs/axios": "^5.11.0",
+    "v-file-upload": "^3.1.7",
+    "vue-upload-component": "^2.8.20",
+    "xlsx-parse-json": "^3.1.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-eslint": "^10.1.0",
+    "babel-jest": "^26.1.0"
+  }
+}
